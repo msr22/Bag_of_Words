@@ -38,7 +38,7 @@ http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 
 ### Bag-of-Words representation
 
-- The simplest way to represent a document $D$ as a vector $V$ would be to now count the relevant words in the document. 
+- The simplest way to represent a document *D* as a vector *V* would be to now count the relevant words in the document. 
 - For each document, make a vector of the count of each of the words in the vocabulary (excluding the words removed in the previous step - the "stopwords").
 
 ### Document classification using Bag-of-Words
